@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 15f1f819e81ae7b47bc9ad8d8d1c0f4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - islandMouseOver: {fileID: 2100000, guid: adefd8e037c30624b93d4cf28ed903e4, type: 2}
+  - normalIslandMat: {fileID: 2100000, guid: 9703cafac56378549bc6ff5fe2768b06, type: 2}
+  - island: {fileID: 9104558439861238775, guid: fa9c5923295de844281faab70c883773, type: 3}
+  - islandInformationUI: {instanceID: 0}
+  - islandSelected: {instanceID: 0}
+  - ship: {fileID: 5250470684733011381, guid: cb90c37731351224f8fe582ab358bbf9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

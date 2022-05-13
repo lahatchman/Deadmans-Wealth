@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7ce982901553fe14faf07c6be2f81e39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - islandUI: {instanceID: 0}
+  - directionArrow: {fileID: 5477583715131300442, guid: e19673893e571144ea422a43f3189daa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
